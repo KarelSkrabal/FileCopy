@@ -1,0 +1,12 @@
+{
+  "Posts": {
+    "export": {
+      "ID": "export",
+      "Path": "D:\\PLANOVANI\\"
+    }, 
+    "pamscl": {
+      "ID": "pamscl",
+      "Path": "c:\\Users\\k.skrabal\\AppData\\Local\\Temp\\Vero Software\\2016.20\\Edgecam\\pamscl.dat"
+    }
+  }
+}

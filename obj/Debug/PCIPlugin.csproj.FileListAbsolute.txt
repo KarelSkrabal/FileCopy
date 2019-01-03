@@ -1,0 +1,7 @@
+C:\Users\k.skrabal\Documents\Visual Studio 2013\Projects\PCIPlugin C#\bin\Debug\FileCopy Plugin.dll
+C:\Users\k.skrabal\Documents\Visual Studio 2013\Projects\PCIPlugin C#\bin\Debug\FileCopy Plugin.pdb
+C:\Users\k.skrabal\Documents\Visual Studio 2013\Projects\PCIPlugin C#\obj\Debug\PCIPlugin.csprojResolveAssemblyReference.cache
+C:\Users\k.skrabal\Documents\Visual Studio 2013\Projects\PCIPlugin C#\obj\Debug\Interop.Edgecam.dll
+C:\Users\k.skrabal\Documents\Visual Studio 2013\Projects\PCIPlugin C#\obj\Debug\PCIPlugin.csproj.ResolveComReference.cache
+C:\Users\k.skrabal\Documents\Visual Studio 2013\Projects\PCIPlugin C#\obj\Debug\FileCopy Plugin.dll
+C:\Users\k.skrabal\Documents\Visual Studio 2013\Projects\PCIPlugin C#\obj\Debug\FileCopy Plugin.pdb

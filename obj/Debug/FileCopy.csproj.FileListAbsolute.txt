@@ -1,0 +1,15 @@
+C:\Users\k.skrabal\Documents\Visual Studio 2013\Projects\PCIPlugin C#\bin\Debug\FileCopy Plugin.dll
+C:\Users\k.skrabal\Documents\Visual Studio 2013\Projects\PCIPlugin C#\bin\Debug\FileCopy Plugin.pdb
+C:\Users\k.skrabal\Documents\Visual Studio 2013\Projects\PCIPlugin C#\obj\Debug\FileCopy.csprojResolveAssemblyReference.cache
+C:\Users\k.skrabal\Documents\Visual Studio 2013\Projects\PCIPlugin C#\obj\Debug\Interop.Edgecam.dll
+C:\Users\k.skrabal\Documents\Visual Studio 2013\Projects\PCIPlugin C#\obj\Debug\FileCopy.csproj.ResolveComReference.cache
+C:\Users\k.skrabal\Documents\Visual Studio 2013\Projects\PCIPlugin C#\obj\Debug\FileCopy Plugin.dll
+C:\Users\k.skrabal\Documents\Visual Studio 2013\Projects\PCIPlugin C#\obj\Debug\FileCopy Plugin.pdb
+c:\Users\k.skrabal\Documents\Visual Studio 2013\Projects\FileCopy\bin\Debug\FileCopy Plugin.dll
+c:\Users\k.skrabal\Documents\Visual Studio 2013\Projects\FileCopy\bin\Debug\FileCopy Plugin.pdb
+c:\Users\k.skrabal\Documents\Visual Studio 2013\Projects\FileCopy\obj\Debug\Interop.Edgecam.dll
+c:\Users\k.skrabal\Documents\Visual Studio 2013\Projects\FileCopy\obj\Debug\FileCopy.csproj.ResolveComReference.cache
+c:\Users\k.skrabal\Documents\Visual Studio 2013\Projects\FileCopy\obj\Debug\FileCopy Plugin.dll
+c:\Users\k.skrabal\Documents\Visual Studio 2013\Projects\FileCopy\obj\Debug\FileCopy Plugin.pdb
+C:\Users\k.skrabal\Documents\Vero Software\2016.20\Edgecam\cam\Plugins\FileCopy Plugin.dll
+C:\Users\k.skrabal\Documents\Vero Software\2016.20\Edgecam\cam\Plugins\FileCopy Plugin.pdb
