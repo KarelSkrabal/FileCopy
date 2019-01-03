@@ -1,6 +1,6 @@
-﻿plugin
+﻿
+Edgecam plugin pro kopirovani souboru vytvorenych v CAD/CAM Edgecam
 ------
-
-Pamscl.cs -> get pamscl.dat file path
-ECInfo.cs,FileReader.cs -> get Edgecam details
-FileMover.cs -> copy files to designed folder
+Pamscl.cs -> cteni souboru pamscl.dat 
+ECInfo.cs,FileReader.cs -> parsovani informaci nactenych z pamscl.dat
+FileMover.cs -> kopirovani souboru do uloziste dle nastaveni ECSetting.json
